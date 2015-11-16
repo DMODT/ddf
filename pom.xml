@@ -17,7 +17,7 @@
 
     <groupId>ddf</groupId>
     <artifactId>ddf</artifactId>
-    <version>2.9.0-SNAPSHOT</version>
+    <version>ddf-2.9.0-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>DDF Reactor</name>
     <description>Distributed Data Framework (DDF) Parent</description>
@@ -98,8 +98,8 @@
     -->
     <scm>
         <url>https://github.com/codice/ddf</url>
-        <connection>scm:git:https://github.com/codice/ddf.git</connection>
-        <developerConnection>scm:git:https://github.com/codice/ddf.git</developerConnection>
+        <connection>scm:git:git@github.com:DMODT/ddf.git</connection>
+        <developerConnection>scm:git:git@github.com:DMODT/ddf.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
 
